@@ -1,0 +1,22 @@
+USER GUIDE : 
+
+To operate this inventory system 1st login to the data base & then operate software.
+
+	> Mark Check to select the particular item the customer want.
+	
+	> Next is to enter the Quantity of that item which is opposite to it.
+
+	> Next is to ENter the name of the Customer.
+
+	> Next Step is to Enter the table no of the Customer.
+
+	> Next Step is to assign the Order ID to the Customer
+
+	> Now you can click on "make order" to make an order.
+
+	> Next step is to show Receipt by clicking on it.
+
+	> Now you can generate the bill by Printing it.
+
+
+ 
